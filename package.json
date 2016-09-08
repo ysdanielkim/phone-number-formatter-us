@@ -1,0 +1,24 @@
+{
+  "name": "phone-number-formatter(us)",
+  "version": "1.0.0",
+  "description": "Format phone number in (xxx) xxx-xxxx format.",
+  "main": "phone-number-formatter.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ysdanielkim/phone-number-formatter-us.git"
+  },
+  "keywords": [
+    "phone",
+    "number",
+    "format",
+    "us"
+  ],
+  "author": "Daniel Kim",
+  "license": "ISC"
+}
