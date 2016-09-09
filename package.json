@@ -1,5 +1,5 @@
 {
-  "name": "phone-number-formatter(us)",
+  "name": "phone-number-formatter-us",
   "version": "1.0.0",
   "description": "Format phone number in (xxx) xxx-xxxx format.",
   "main": "phone-number-formatter.js",
